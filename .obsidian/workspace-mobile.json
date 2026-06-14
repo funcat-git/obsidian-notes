@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sec/burpsuit.md.md",
+                "file": "sec/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "burpsuit.md"
+              "title": "未命名"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "746cd6ba483d9197",
   "lastOpenFiles": [
-    "sec/giyhubshh.md",
     "sec/burpsuit.md.md",
+    "sec/未命名.md",
+    "sec/giyhubshh.md",
     "sec/test.md",
     "sec/xxs.md.md",
     "sync.sh",
