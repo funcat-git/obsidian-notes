@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sec/burpsuit.md.md",
+                "file": "sec/123.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "burpsuit.md"
+              "title": "123"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "746cd6ba483d9197",
   "lastOpenFiles": [
-    "sec/未命名.md",
-    "widget.log",
     "sec/burpsuit.md.md",
+    "sec/123.md",
+    "widget.log",
     "sec/giyhubshh.md",
     "sec/test.md",
     "sec/xxs.md.md",
