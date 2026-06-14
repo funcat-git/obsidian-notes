@@ -11,14 +11,10 @@
             "id": "746cd6ba483d9197",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sec/123.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "123"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,7 +164,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "746cd6ba483d9197",
+  "active": "69151042d6c79d8d",
   "lastOpenFiles": [
     "sec/burpsuit.md.md",
     "sec/123.md",
